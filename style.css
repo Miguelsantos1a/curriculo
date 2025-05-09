@@ -1,0 +1,225 @@
+Pular para o conteúdo principal
+Google Sala de Aula
+Sala de Aula
+Matematica Ii - 3º Ano D Noite - Médio
+UNIDADE P KAROLINE V A LUAN A S,C E-EFMP
+Início
+Agenda
+Recursos
+Minhas inscrições
+Pendentes
+3
+3D Fisica (FGB) - Noite - Médio
+UNIDADE P KAROLINE V A LUAN A S,C E-EFMP
+P
+Port. - 3º D
+UNIDADE P KAROLINE V A LUAN A S,C E-EFMP
+Q
+Quimica I - 3º Ano D Noite - Médio
+UNIDADE P KAROLINE V A LUAN A S,C E-EFMP
+3
+3D Rec Aprend Lingua Port - Noite - Médio
+3ºD UNIDADE P KAROLINE V A LUAN A S,C E-EFMP
+B
+Biologia Ii - 3º Ano D Noite - Médio
+UNIDADE P KAROLINE V A LUAN A S,C E-EFMP
+3
+3D Física II - Noite - Médio
+UNIDADE P KAROLINE V A LUAN A S,C E-EFMP
+3
+3D Ed Financeira - Noite - Médio
+UNIDADE P KAROLINE V A LUAN A S,C E-EFMP
+3
+3D Projeto De Vida - Noite - Médio
+UNIDADE P KAROLINE V A LUAN A S,C E-EFMP
+F
+Fisica Iii - 3º Ano D Noite - Médio
+UNIDADE P KAROLINE V A LUAN A S,C E-EFMP
+M
+Matematica Ii - 3º Ano D Noite - Médio
+UNIDADE P KAROLINE V A LUAN A S,C E-EFMP
+3
+3D Ed Fisica -Noite - Médio
+UNIDADE P KAROLINE V A LUAN A S,C E-EFMP
+3
+3D Matematica - Noite - Médio
+UNIDADE P KAROLINE V A LUAN A S,C E-EFMP
+R
+Rec Aprend Matematica - 3º Ano D Noite - Médio
+UNIDADE P KAROLINE V A LUAN A S,C E-EFMP
+Turmas arquivadas
+Configurações
+Mural
+Atividades
+Pessoas
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #2c3e50;
+    color: #fff;
+    padding: 40px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.profile-foto img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #ecf0f1;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+header p {
+    font-size: 1.2rem;
+    color: #ecf0f1;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #2c3e50;
+}
+
+h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #34495e;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    margin-bottom: 15px;
+}
+
+a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #2c3e50;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+}
+
+/* Estilos para o tema escuro */
+body.dark-theme {
+    background-color: #1a1a1a;
+    color: #f4f4f4;
+}
+
+body.dark-theme header {
+    background-color: #121212;
+}
+
+body.dark-theme h2 {
+    color: #ecf0f1;
+}
+
+body.dark-theme h3 {
+    color: #bdc3c7;
+}
+
+body.dark-theme a {
+    color: #3498db;
+}
+
+body.dark-theme footer {
+    background-color: #121212;
+}
+
+/* Estilo do botão de alternar tema */
+button {
+    background-color: #2980b9;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #3498db;
+}
+
+style.css
+Exibindo style.css…
+Todos os temas
+Trabalhos
+Trabalhos
+Atividade
+Currículo Completo - Tema Claro
+Data de entrega: 20:00
+Atividade
+Atividade - Alura
+Data de entrega: 23:59
+Material
+Site - Currículo
+Última edição: 19:48
+
+index.html
+HTML
+
+style.css
+CSS
+Atividade Aulas Assíncronas
+Atividade Aulas Assíncronas
+Atividade
+Aula 7 - Atividade Assíncrona
+Data de entrega: 20:00
+Atividade
+Aula 6 - Atividade Assíncrona
+Data de entrega: 28 de mar., 20:00
+Atividade
+Aula 5 - Atividade Assíncrona
+Data de entrega: 21 de mar., 20:00
+Atividade
+Aula 4 - Atividade Assíncrona
+Data de entrega: 14 de mar., 08:00
+Atividade
+Aula 3 - Atividade Assíncrona
+Data de entrega: 7 de mar., 08:00
+Atividade
+Aula 2 - Atividade Assíncrona
+Data de entrega: 28 de fev., 08:00
+Atividade
+Aula 1 - Atividade Assíncrona
+Data de entrega: 21 de fev., 23:59
+Atividades de Matematica Ii - 3º Ano D Noite - Médio UNIDADE P KAROLINE V A LUAN A S,C E-EFMP
